@@ -1,2 +1,2 @@
-# Machine-Learning-Ising-Model---Python-Project-Work-in-Progress-
-This is a Python project I am currently working on where I attempt to use Machine Learning techniques to simulate the Ising Model
+# Machine-Learning-Ising-Model
+This is a Python project completed as part of my MSc. where I trained a neural network to reproduce solutions to the Ising model
